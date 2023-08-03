@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitgarg2002
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on laravel projects 
 - 📫 How to reach me ...
 - send email at amit826418@gmail.com 
