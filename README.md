@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitgarg2002
+- 👋 Hi, I’m @amitgarg2002 professional laravel Web developer
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on laravel projects 
